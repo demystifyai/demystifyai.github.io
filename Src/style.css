@@ -1,0 +1,65 @@
+
+body
+{
+  background-color: #212121;
+}
+
+h
+{
+  font-family: "Helvetica Neue";
+  font-weight: 200;
+}
+
+hai {
+  font-family: "Helvetica Neue";
+  font-weight: 500;
+}
+
+p {
+  font-family: "Helvetica Neue";
+}
+
+.centered
+{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+}
+
+.centered2
+{
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.button
+ {
+  background-color: #212121;
+  width: 150;
+  height: 50;
+  border: 2px solid white;
+  color: white;
+  right: 100px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  font-family: "Helvetica Neue";
+  font-weight: 200;
+  border-radius: 5px;
+}
+
+.feedContainer
+{
+  padding: 100px 50px;
+  width: 50%;
+  height: 50%;
+  font-family: "Helvetica Neue";
+  font-weight: 200;
+  font-size: 50;
+}

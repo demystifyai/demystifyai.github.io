@@ -1,0 +1,216 @@
+.topic3
+{
+  position: fixed;
+  top:80%;
+  right:5%;
+}
+
+.topic2
+{
+  position: fixed;
+  top:50%;
+  right:5%;
+}
+
+.topic1
+{
+  position: fixed;
+  top:20%;
+  right:5%;
+}
+
+.topRightPos
+{
+  position: fixed;
+  top: 10%;
+  right: 10%;
+  font-size: 85;
+  color: white;
+  font-family: "Helvetica Neue";
+  font-weight: 500;
+}
+
+.bottomLeftButt
+{
+  position: fixed;
+  top: 80%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+}
+
+.imgcontainer
+{
+  position: fixed;
+  top:25%;
+}
+
+.topicContainer
+{
+    position: fixed;
+    text-align: right;
+    top: 25%;
+    width: 40%;
+    height: 70%;
+    right: 10%;
+    font-family: "Helvetica Neue";
+    font-weight: 150;
+}
+
+.circle
+{
+  position: relative;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+  background-color: white;
+  bottom: 0%;
+  left: 42.2%;
+}
+
+.circle1
+{
+  position: relative;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+  background-color: white;
+  bottom: 7%;
+  left: 42.2%;
+}
+
+.circle2
+{
+  position: relative;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+  background-color: white;
+  bottom: 9%;
+  left: 42.2%;
+}
+
+.rectangle
+{
+  position: relative;
+  height: 550px;
+  width: 30px;
+  background-color: white;
+  left: 44.5%;
+  bottom: 5%;
+}
+
+.rectangle1
+{
+  position: relative;
+  height: 550px;
+  width: 30px;
+  background-color: white;
+  left: 44.5%;
+  bottom: 8%;
+}
+
+.rectangle2
+{
+  position: relative;
+  height: 550px;
+  width: 30px;
+  background-color: white;
+  left: 44.5%;
+  bottom: 10%;
+}
+
+.cont1
+{
+  position: absolute;
+  background-color:#212121;
+  bottom: 50%;
+  width: 32%;
+  height: 45%;
+  right: 65%;
+  font-family: "Helvetica Neue";
+  font-weight: 150;
+}
+
+.cont1J
+{
+  position: absolute;
+  background-color:#212121;
+  bottom: 35%;
+  width: 32%;
+  height: 45%;
+  right: 65%;
+  font-family: "Helvetica Neue";
+  font-weight: 150;
+}
+
+.img1
+{
+  position: absolute;
+  background-color:blue;
+  bottom: 50%;
+  left: 58%;
+}
+
+.cont2
+{
+  position: absolute;
+  background-color:#212121;
+  top: 70%;
+  width: 32%;
+  height: 45%;
+  left: 58%;
+  font-family: "Helvetica Neue";
+  font-weight: 150;
+}
+
+.cont2J
+{
+  position: absolute;
+  background-color:#212121;
+  top: 80%;
+  width: 32%;
+  height: 45%;
+  left: 58%;
+  font-family: "Helvetica Neue";
+  font-weight: 150;
+}
+
+.img2
+{
+  position: absolute;
+  background-color:blue;
+  top: 70%;
+  right: 65%;
+}
+
+.cont3
+{
+  position: absolute;
+  background-color:#212121;
+  top: 140%;
+  width: 32%;
+  height: 45%;
+  right: 65%;
+  font-family: "Helvetica Neue";
+  font-weight: 150;
+}
+
+.cont3J
+{
+  position: absolute;
+  background-color:#212121;
+  top: 150%;
+  width: 32%;
+  height: 45%;
+  right: 65%;
+  font-family: "Helvetica Neue";
+  font-weight: 150;
+}
+
+.img3
+{
+  position: absolute;
+  background-color:blue;
+  top: 140%;
+  left: 58%;
+}
